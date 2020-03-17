@@ -22,6 +22,10 @@ Using TCP/IP to watch camera remotely.
 
 # Requirements
 ## For phones
+### Requirements
+Termux, Termux:API, python(on Termux), numpy(on Termux), OpenCV(on Termux)
+
+### Installations
   First of first, you need to install following things;
    1) Install Termux (Follow the instructions here: https://termux.com/)
    2) Install Termux:API (Follow the instructions here: https://wiki.termux.com/wiki/Termux:API)
@@ -32,4 +36,4 @@ Using TCP/IP to watch camera remotely.
    3) Install python with "pkg install python"
    4) Get its-pointless repo (Follow the instructions here: https://wiki.termux.com/wiki/Package_Management#By_its-pointless_.28live_the_dream.29:)
    5) Install scipy with "pkg install scipy"
-   
+   6) Install OpenCV (Follow the instructions here: https://wiki.termux.com/wiki/Instructions_for_installing_python_packages#opencv)

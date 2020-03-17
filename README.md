@@ -21,6 +21,7 @@ Using TCP/IP to send/receive camera images remotely.
    Use with "Photo_with_subprocess.py". (Change 'host_name' and 'port_name' as you wish)
 
 # Requirements
+Please confirm following things for phones and for terminals are OK.
 ## For phones
 ### Requirements
 Termux, Termux:API, python(on Termux), numpy(on Termux), OpenCV(on Termux)

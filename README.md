@@ -37,3 +37,7 @@ Termux, Termux:API, python(on Termux), numpy(on Termux), OpenCV(on Termux)
    4) Get its-pointless repo (Follow the instructions here: https://wiki.termux.com/wiki/Package_Management#By_its-pointless_.28live_the_dream.29:)
    5) Install scipy with "pkg install scipy"
    6) Install OpenCV (Follow the instructions here: https://wiki.termux.com/wiki/Instructions_for_installing_python_packages#opencv)
+
+## For terminals
+### Requirements
+Python, numpy, OpenCV

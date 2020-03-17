@@ -1,7 +1,7 @@
 # Use-your-phone-as-a-security-cam
 Experimental repo.
 This repo works with Termux app and Termux-api app in your phone.
-Using TCP/IP to watch camera remotely.
+Using TCP/IP to send/receive camera images remotely.
 
 ## Codes for phone (Sender)
 1) Photo_with_subprocess.py

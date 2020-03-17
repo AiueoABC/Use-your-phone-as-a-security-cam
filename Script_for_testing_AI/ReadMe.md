@@ -1,6 +1,6 @@
 # What is this?
 Use your phone to get images.
-This is the testing code working with "pytorch-ssd" repo from qfgaohao.
+This is the testing code working with "pytorch-ssd" repo from qfgaohao. (For more details about pytorch-ssd, see https://github.com/qfgaohao/pytorch-ssd)
 
 # How to use?
 1) Clone the "pytorch-ssd" repo. And, download pretrained models, named "vgg16-ssd-mp-0_7726.pth", as described in that repo.

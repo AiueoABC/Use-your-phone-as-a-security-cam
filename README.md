@@ -1,5 +1,5 @@
 # Use-your-phone-as-a-security-cam
-Experimental repo.
+Experimental repo. I made this to play with Termux, so I did tons of stupid things.
 This repo works with Termux app and Termux-api app in your phone.
 Using TCP/IP to send/receive camera images remotely.
 

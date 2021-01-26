@@ -1,3 +1,4 @@
+https://github.com/AiueoABC/Play_with_DroidCam This should be better
 # Use-your-phone-as-a-security-cam
 Experimental repo. I made this to play with Termux, so I did tons of stupid things.
 This repo works with Termux app and Termux-api app in your phone.
